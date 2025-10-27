@@ -1,8 +1,3 @@
-Perfeito! Vou criar um **README.md completo e organizado** para o seu projeto Playwright, explicando a estrutura, o que está sendo testado, o que está sendo validado e como rodar a automação. Aqui está:
-
----
-
-
 # QA Junior Playwright - Frontend Automation
 
 Este projeto contém automações de testes para a aplicação **[Nome da Aplicação]**, utilizando **Playwright** com TypeScript.  
