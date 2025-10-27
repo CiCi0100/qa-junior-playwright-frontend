@@ -133,9 +133,9 @@ test-results/
 
 ---
 
-## Dependências principais
+## Tecnologias utilizadas
 
-* `@playwright/test`
-* `typescript`
-* Node.js
+* `@playwright/test`– framework de automação de testes
+* `typescript`– linguagem principal
+* Node.js – runtime
 
