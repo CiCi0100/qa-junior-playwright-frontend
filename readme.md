@@ -67,7 +67,7 @@ qa-junior-playwright-frontend/
 1. Clone este repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/CiCi0100/qa-junior-playwright-frontend.git>
 cd qa-junior-playwright-frontend
 ````
 
@@ -142,5 +142,5 @@ test-results/
 
 * `@playwright/test`
 * `typescript`
-* Node.js 18+ recomendado
+* Node.js
 
