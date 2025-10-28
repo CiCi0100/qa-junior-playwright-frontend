@@ -1,6 +1,6 @@
 # QA Junior Playwright - Frontend Automation
 
-Este projeto contém automações de testes para a aplicação **[Nome da Aplicação]**, utilizando **Playwright** com TypeScript.  
+Este projeto contém automações de testes para a aplicação **Sauce Demo**, utilizando **Playwright** com TypeScript.  
 
 A automação cobre **cenários de login, carrinho de compras e checkout**, incluindo testes positivos e negativos.
 
